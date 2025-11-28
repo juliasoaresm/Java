@@ -1,0 +1,56 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ConversorMoeda",
+      "request": "launch",
+      "mainClass": "conversorMoeda.ConversorMoeda",
+      "projectName": "Java_de4e7859"
+    },
+    {
+      "type": "java",
+      "name": "SistemaNotas",
+      "request": "launch",
+      "mainClass": "correcao.SistemaNotas",
+      "projectName": "Java_de4e7859"
+    },
+    {
+      "type": "java",
+      "name": "operadores",
+      "request": "launch",
+      "mainClass": "testandocodigos.operadores",
+      "projectName": "Java_de4e7859"
+    },
+    {
+      "type": "java",
+      "name": "PrimeiroPrograma",
+      "request": "launch",
+      "mainClass": "primeiroprograma.PrimeiroPrograma",
+      "projectName": "Java_de4e7859"
+    },
+    {
+      "type": "java",
+      "name": "Programa",
+      "request": "launch",
+      "mainClass": "PrimeiroTesteJava7.Programa",
+      "projectName": "Java_de4e7859"
+    },
+    {
+      "type": "java",
+      "name": "Programa",
+      "request": "launch",
+      "mainClass": "Programa",
+      "projectName": "Java_de4e7859"
+    },
+    {
+      "type": "java",
+      "name": "Launch OlaMundo (Java 7)",
+      "request": "launch",
+      "mainClass": "OlaMundo",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "runtimeExecutable": "/home/julia/.sdkman/candidates/java/7.0.352-zulu/bin/java"
+    }
+  ]
+}
